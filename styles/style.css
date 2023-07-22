@@ -148,3 +148,11 @@ header h1{
 .material-symbols-outlined{
     transform: translateX(5px);
 }
+
+.header-text{
+    padding: 45px 0;
+    font-size: 1.2rem;
+    line-height: 34px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
